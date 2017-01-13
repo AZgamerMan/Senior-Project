@@ -61,12 +61,6 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-#Content folder
-Content/*
-
-#Keep Custom Content
-!Content/CustomContent/*
-
 # =========================
 # Operating System Files
 # =========================
